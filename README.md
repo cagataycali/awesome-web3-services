@@ -8,6 +8,6 @@ Services running on top of [HSTP](https://github.com/cagataycali/HSTP), [IPFS](h
 
 ### Services running on top of HSTP
 
-* [FLEX](https://github.com/cagataycali/HSTP) - Decentralized identity and access management service
+* [FLEX](https://github.com/cagataycali/flex-protocol) - Decentralized identity and access management service
 * Service Discovery *(Soon)* - Fault tolerant service discovery service
 * HSTP-IPFS *(Soon)* - HSTP over IPFS
